@@ -1,5 +1,5 @@
 {
-  "name": "todolist",
+  "name": "todolist-hamzah7",
   "version": "1.0.0",
   "description": "A simple todolist made with inquirer, chalk packages to add items in our list",
   "main": "index.js",
